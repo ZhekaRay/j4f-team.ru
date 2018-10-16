@@ -1,0 +1,88 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="j4f-team.000webhostapp.com" resolutions="1x" timestamp="1539598980305">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master______.css" crc="4264926637" ref="the-last-human:о-нас:поиск:проекты"/>
+    <file name="the-last-human.css" crc="425576665" ref="the-last-human"/>
+    <file name="_-___.css" crc="4254336502" ref="о-нас"/>
+    <file name="_____.css" crc="3969787457" ref="поиск"/>
+    <file name="_______.css" crc="3969787457" ref="проекты"/>
+    <file name="index.css" crc="142925170" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="comicrelief.woff" crc="415865963"/>
+    <file name="comicrelief.eot" crc="4176331475"/>
+    <file name="comicrelief.svg" crc="4266897040"/>
+  </folder>
+  <folder name="assets">
+    <file name="1-(3).png" crc="514333424" seo="true" mt="1539546750000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="museutils.js" crc="3803043152" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="museconfig.js" crc="380897831" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="require.js" crc="4157109226" ref="index:о-нас:поиск:проекты:the-last-human"/>
+  </folder>
+  <folder name="images">
+    <file name="главная-favicon.ico" crc="182543922" ref="index"/>
+    <file name="bg-light-4869.png" crc="3801718614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000-2.jpg" crc="3957044417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000-1.jpg" crc="133130981" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u255-4-a.png" crc="308578203" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:о-нас:поиск:проекты:the-last-human"/>
+    <file name="u252_states.png" crc="3874332120" ref="index"/>
+    <file name="u252_states-r.png" crc="381104253" ref="index"/>
+    <file name="u252_states-m.png" crc="470682794" ref="index"/>
+    <file name="u253_states.png" crc="4175111898" ref="index"/>
+    <file name="u253_states-r.png" crc="127245218" ref="index"/>
+    <file name="u253_states-m.png" crc="3941958575" ref="index"/>
+    <file name="u254.png" crc="77787117" ref="index"/>
+    <file name="u254-r.png" crc="417639882" ref="index"/>
+    <file name="u254-m.png" crc="445551534" ref="index"/>
+    <file name="u338-4.png" crc="4293979039" ref="index"/>
+    <file name="1 (3).jpg" crc="3988476657" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 (3)2.jpg" crc="4140669573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 (3)-u624-fr.jpg" crc="439221250" ref="index"/>
+    <file name="1-(3).png" crc="514333424" seo="true" ref="о-нас:поиск:проекты:the-last-human">
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="the-last-human" alt=""/>
+      <caption webpage="поиск" alt=""/>
+      <caption webpage="проекты" alt=""/>
+    </file>
+    <file name="u104_states.png" crc="123661642" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u104_states-r.png" crc="4003712609" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u104_states-m.png" crc="527941567" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u104_states-a.png" crc="380371261" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u109_states.png" crc="321211143" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u109_states-r.png" crc="199305124" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u109_states-m.png" crc="458649833" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u109_states-a.png" crc="364782411" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u112.png" crc="6241512" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u112-r.png" crc="357521156" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u112-m.png" crc="4274861407" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u115_states.png" crc="3953948540" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u115_states-r.png" crc="255939949" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u115_states-m.png" crc="535260056" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u115_states-a.png" crc="441654391" ref="о-нас:поиск:проекты:the-last-human"/>
+    <file name="u175-4.png" crc="385975465" ref="о-нас:поиск:проекты:the-last-human"/>
+  </folder>
+  <file name="index.html" crc="4135136822" seo="true" mt="1539598659212" redirect="true"/>
+  <file name="о-нас.html" crc="3857889083" seo="true" mt="1539594364356" redirect="true"/>
+  <file name="поиск.html" crc="3962462291" seo="true" mt="1539594364340" redirect="true"/>
+  <file name="проекты.html" crc="4222886851" seo="true" mt="1539594364340" redirect="true"/>
+  <file name="the-last-human.html" crc="4245566353" seo="true" mt="1539598204796" redirect="true"/>
+</manifest>
